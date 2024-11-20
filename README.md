@@ -41,6 +41,7 @@
 ### 2.4 键盘录入
 
 使用键盘录入功能需要导入一个叫Scanner的库，有个小技巧，打开Idea的设置，勾选**动态添加明确的import**和**动态优化import**就可以自动导入相应的库了，如图：
+![屏幕截图 2024-11-20 121803](https://github.com/user-attachments/assets/42cfcfd5-a472-4214-af0e-845c0ed13cde)
 
 
 
