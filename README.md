@@ -1,2 +1,3 @@
-# Java-Exercise-Day1
+## Java-Exercise
 Java学习时练习的题目和一些基础语法代码
+这些时以前刚开始学习Java代码时所写的一些语法练习和力扣题目的解决方法
